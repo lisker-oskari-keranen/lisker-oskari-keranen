@@ -4,8 +4,6 @@
 
 - [ ] Bergs/Orrefors/PS1Orrefors
 - [ ] Binderholz/Nurmes/NuAsetePC
-- [ ] Binderholz/Nurmes/PS1Nurmes
-- [ ] Binderholz/Nurmes/PS2Nurmes
 - [ ] Crown-Timber/Hamina/PS1Hamina
 - [ ] Haminan-Veistosaha/?/HavesaAsetePC
 - [ ] Haminan-Veistosaha/?/PS1Hamina
@@ -13,6 +11,9 @@
 ## C++ Builder 5
 
 - [x] Aserraderos/Cuellar/PS2GigEAcsa
+- [x] Binderholz/Nurmes/PS1Nurmes
+- [x] Binderholz/Nurmes/PS2Nurmes
+- [x] Binderholz/Nurmes/PS3Nurmes
 - [ ] ER-Saha/Viitasaari/PS2GigE_ERsaha
 
 ## C++ Builder 10.2
