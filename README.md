@@ -24,6 +24,7 @@
 - [x] Keitele/Alajarvi/PS2Myllyaho
 - [x] Kontiotuote/Pudasjarvi/PS3GigEKontio
 - [x] Norlund/PS2Norlund
+- [x] PRT-Wood/Pyhanta/PS3GigEPyhanta
 
 ## C++ Builder XE5
 
