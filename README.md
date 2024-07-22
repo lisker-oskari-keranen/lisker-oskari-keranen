@@ -41,4 +41,4 @@
 
 - [x] FMTimber/Pihtipudas/PS1GigEFMTimber_CX10.4
 - [x] Isojoen-Saha/Isojoki/PS2GigEIsojoki_CX10.4_Concord_MilX
-- [x] Kieppi/PS2GigEKieppi_CX10.4_Concord_MilX-initial
+- [x] Kieppi/PS2GigEKieppi_CX10.4_Concord_MilX
