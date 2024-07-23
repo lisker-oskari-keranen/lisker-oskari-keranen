@@ -17,6 +17,8 @@
 - [x] Binderholz/Nurmes/PS1Nurmes
 - [x] Binderholz/Nurmes/PS2Nurmes
 - [x] Binderholz/Nurmes/PS3Nurmes
+- [x] Combimill/Reopalu/PS1GigEReopalu
+- [x] Combimill/Reopalu/ReopaluPatternPC5
 - [x] Crown-Timber/Hamina/PS1Hamina
 - [x] Hasa/Haapajärvi/HaAsetePC5
 - [x] Hasa/Haapajärvi/PS1Haapajarvi
@@ -52,3 +54,4 @@
 - [x] Polkky/Taivalkoski-Ulea/PS1GigEUlea_CX10.4_Concord_MilX
 - [x] Polkky/Taivalkoski-Ulea/UlAsetePC_CX10.4
 - [x] Versowood/Riihimaki/PS2GigERiihimaki_CX10.4_Concord_MilX
+- [x] Viitala-Forest/Peraseinajoki/PS1GigEViitala_CX10.4_Concord_MilX
