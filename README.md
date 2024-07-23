@@ -29,6 +29,8 @@
 - [x] Recybois/Virton/PS1Recybois
 - [x] Sodra-Timber/Monsteras/PS1GigEMonsteras
 - [x] Sveden-Tra/Ragsveden/PS1GigERagsvedenVeisto
+- [x] Versowood/Otava/PS2GigEOtava
+- [x] Versowood/Otava/PS3GigEOtava
 
 ## C++ Builder XE5
 
@@ -49,3 +51,4 @@
 - [x] Kieppi/PS2GigEKieppi_CX10.4_Concord_MilX
 - [x] Polkky/Taivalkoski-Ulea/PS1GigEUlea_CX10.4_Concord_MilX
 - [x] Polkky/Taivalkoski-Ulea/UlAsetePC_CX10.4
+- [x] Versowood/Riihimaki/PS2GigERiihimaki_CX10.4_Concord_MilX
