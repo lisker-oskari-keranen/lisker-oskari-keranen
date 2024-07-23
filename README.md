@@ -31,6 +31,7 @@
 - [x] Recybois/Virton/PS1Recybois
 - [x] Sodra-Timber/Monsteras/PS1GigEMonsteras
 - [x] Sveden-Tra/Ragsveden/PS1GigERagsvedenVeisto
+- [x] USM/Kostopil/PS1GigEKostopil
 - [x] Versowood/Otava/PS2GigEOtava
 - [x] Versowood/Otava/PS3GigEOtava
 
