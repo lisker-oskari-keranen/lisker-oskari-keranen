@@ -27,6 +27,7 @@
 - [x] Norlund/PS2Norlund
 - [x] PRT-Wood/Pyhanta/PS3GigEPyhanta
 - [x] Recybois/Virton/PS1Recybois
+- [x] Sodra-Timber/Monsteras/PS1GigEMonsteras
 - [x] Sveden-Tra/Ragsveden/PS1GigERagsvedenVeisto
 
 ## C++ Builder XE5
