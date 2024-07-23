@@ -9,6 +9,7 @@
 - [x] Scieries-Limousin/Limousin/PS1RanskaKaanto
 - [x] Scieries-Limousin/Limousin/PS1RanskaLaj
 - [x] Scieries-Limousin/Limousin/PS1RanskaSahalinja
+- [x] Sveden-Tra/Ragsveden/RagsvedenAsetePC
 
 ## C++ Builder 5
 
@@ -25,6 +26,8 @@
 - [x] Kontiotuote/Pudasjarvi/PS3GigEKontio
 - [x] Norlund/PS2Norlund
 - [x] PRT-Wood/Pyhanta/PS3GigEPyhanta
+- [x] Recybois/Virton/PS1Recybois
+- [x] Sveden-Tra/Ragsveden/PS1GigERagsvedenVeisto
 
 ## C++ Builder XE5
 
