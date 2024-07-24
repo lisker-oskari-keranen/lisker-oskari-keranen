@@ -54,5 +54,7 @@
 - [x] Kieppi/PS2GigEKieppi_CX10.4_Concord_MilX
 - [x] Polkky/Taivalkoski-Ulea/PS1GigEUlea_CX10.4_Concord_MilX
 - [x] Polkky/Taivalkoski-Ulea/UlAsetePC_CX10.4
+- [x] UPM-Timber/Kaukas/PS1GigEKaukas_CX10.4_Concord_MilX
+- [x] UPM-Timber/Kaukas/PS1GigEKaukasKaanto_CX10.4_Concord_MilX
 - [x] Versowood/Riihimaki/PS2GigERiihimaki_CX10.4_Concord_MilX
 - [x] Viitala-Forest/Peraseinajoki/PS1GigEViitala_CX10.4_Concord_MilX
