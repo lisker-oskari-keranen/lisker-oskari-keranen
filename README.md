@@ -10,6 +10,7 @@
 - [x] Scieries-Limousin/Limousin/PS1RanskaLaj
 - [x] Scieries-Limousin/Limousin/PS1RanskaSahalinja
 - [x] Sveden-Tra/Ragsveden/RagsvedenAsetePC
+- [x] Tiaisen-saha/Savitaipale/PS1Tiaine
 
 ## C++ Builder 5
 
@@ -46,6 +47,7 @@
 - [x] HaSa/Haapajärvi/PS2Haapajarvi_CX_MIL10
 - [x] Isojoen-Saha/Isojoki/PS1GigEIsojoki_CX_Mil10
 - [x] Lapuan-Saha/Lapua/PS1GigELapua_CX
+- [x] Tiaisen-saha/Savitaipale/PS3GigETiainen_CX_Mil10
 
 ## C++ Builder 10.4
 
@@ -54,6 +56,7 @@
 - [x] Kieppi/PS2GigEKieppi_CX10.4_Concord_MilX
 - [x] Polkky/Taivalkoski-Ulea/PS1GigEUlea_CX10.4_Concord_MilX
 - [x] Polkky/Taivalkoski-Ulea/UlAsetePC_CX10.4
+- [x] Tiaisen-saha/Savitaipale/PS2GigETiainen_CX10.4_Concord_MilX
 - [x] UPM-Timber/Kaukas/PS1GigEKaukas_CX10.4_Concord_MilX
 - [x] UPM-Timber/Kaukas/PS1GigEKaukasKaanto_CX10.4_Concord_MilX
 - [x] Versowood/Riihimaki/PS2GigERiihimaki_CX10.4_Concord_MilX
