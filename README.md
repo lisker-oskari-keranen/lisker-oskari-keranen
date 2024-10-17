@@ -11,7 +11,7 @@
 |44|28.10. - 1.11.|(8)|(8)|(0)|(4)|-|
 
 **Yhteensä:**
-32 tuntia
+56 tuntia, kuukauden arvio 96 tuntia
 
 ### Syyskuu
 
